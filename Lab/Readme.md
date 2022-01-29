@@ -1,5 +1,3 @@
-These are my Lab Programs for Python subject 
-
 <h3>List of Programs:</h3>
 
 1. Write and run a program
