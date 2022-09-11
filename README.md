@@ -1,2 +1,2 @@
 # PythonLabs
-All the Pyhthon Programs executed for learning purpose
+All the Python Programs executed for learning purpose
